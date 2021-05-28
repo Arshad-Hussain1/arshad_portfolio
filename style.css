@@ -1,0 +1,38 @@
+.navbar{
+  background-color:839b97;
+}
+.nav-link,.navbar-brand{
+  color: #c0fefc;
+  cursor: pointer;
+}
+.nav-link{
+  margin-right: 1em;
+}
+.navbar-brand{
+  margin-left: 0.7em;
+}
+.navbar-toggler{
+  background-color: 8bcdcd;
+  margin-right: 4%;
+}
+.navbar-collapse{
+    margin-left: 1em;
+}
+/*
+.header{
+  background-image: url("");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}*/
+/*.bg{
+  width:
+}*/
+.logo{
+  width:60px;
+  height: 50px;
+}
+.imageSize{
+  width: 100%;
+  height: 100%;
+}
